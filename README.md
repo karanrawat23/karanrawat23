@@ -41,13 +41,13 @@ Now I'm channeling all of that context into building things: cleaner code, stron
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,git,github,vscode&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,php,git,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
 | Category | Technologies |
 |---|---|
 | **Frontend** | HTML5, CSS3, JavaScript (ES6+) |
-| **Programming** | C (logic & problem solving), Python (learning) |
+| **Programming** | C | c++ | php |(logic & problem solving), Python (learning) |
 | **Tools** | Git, GitHub, VS Code |
 | **Soft Skills** | Attention to detail, communication, technical recruiting context |
 | **Exploring** | DSA, AI fundamentals, product thinking |
