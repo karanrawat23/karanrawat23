@@ -1,112 +1,131 @@
 <!--
-  GitHub profile README for: https://github.com/karanrawat23
+  GitHub Profile README — Karan Rawat
+  https://github.com/karanrawat23
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:03060b,35:0b1c33,70:1a2432,100:9a5c2a&text=Karan%20Rawat&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Dehradun%20%7C%20BCA%202024-2027%20%7C%20Frontend%20%26%20AI%20Path&descAlignY=63&animation=fadeIn" alt="Karan Rawat banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:03060b,40:0b1c33,75:1a2432,100:9a5c2a&text=Karan%20Rawat&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=BCA%20%7C%20Frontend%20%26%20AI%20Path%20%7C%20Dehradun&descAlignY=62&animation=fadeIn" alt="Karan Rawat Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=E7EEF9&center=true&vCenter=true&width=900&lines=Frontend+Learner+Building+Toward+Software+Engineering+and+AI;BCA+Student+at+Graphic+Era+Hill+University;Past+Experience+in+RMSI+and+Talentiqo;Focused+on+Cleaner+Projects+and+Stronger+Technical+Depth" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1300&color=C9D8F0&center=true&vCenter=true&width=920&lines=Frontend+Developer+in+Progress+%F0%9F%9A%80;BCA+%40+Graphic+Era+Hill+University+%7C+2024%E2%80%932027;Building+Toward+AI+%26+Software+Engineering;Real+Projects.+Honest+Progress.+Clean+Code." alt="Typing SVG" />
 </p>
 
-## Hi, I’m Karan 👋
+---
 
-I’m Karan Rawat, a Bachelor of Computer Applications (BCA) student at Graphic Era Hill University with a strong interest in software development and the evolving field of Artificial Intelligence.
+## Hey, I'm Karan 👋
 
-My journey into tech started with building a foundation in programming, particularly in C, where I developed problem-solving skills and a structured approach to logic. Over time, I expanded into web development using HTML, CSS, and JavaScript, focusing on creating clean, responsive, and user-friendly interfaces.
+I'm a **BCA student** at Graphic Era Hill University, Dehradun — building my foundations in **frontend development**, **problem-solving**, and gradually moving toward **AI & Data Engineering**.
 
-I have also gained industry exposure through my experience as a Data Annotator and a US Tech Recruiter, which helped me understand how real-world systems work behind the scenes — from data preparation for AI models to the expectations of technical hiring. These experiences strengthened my communication skills, attention to detail, and understanding of the tech ecosystem.
+My path into tech hasn't been linear. Before diving full-time into coding, I worked as a **Data Annotator at RMSI** and a **US Tech Recruiter at Talentiqo** — roles that gave me a real perspective on how AI pipelines are fed, how technical hiring actually works, and what separates good engineers from average ones.
 
-Currently, I am focused on improving my Data Structures & Algorithms, building practical projects, and moving toward becoming a Data & Generative AI Product Engineer. I enjoy turning ideas into functional solutions and continuously learning new technologies to stay aligned with industry demands.
+Now I'm channeling all of that context into building things: cleaner code, stronger projects, and a GitHub profile I'm genuinely proud of.
 
-I believe in consistency, hands-on learning, and building real-world projects that reflect both technical ability and growth mindset.
+> *"I'm not the smartest in the room — but I show up, I build, and I improve every week."*
 
 ---
 
-## Quick Facts
+## 🧭 Where I'm At Right Now
 
-| 📍 Location | 🎓 Program | 🔥 Current focus |
-|---|---|---|
-| Dehradun, Uttarakhand | BCA 2024–2027 | Frontend, JavaScript, AI learning |
-| Open to internships & learning opportunities | Building cleaner projects | Growing in software engineering |
-
----
-
-## What I’m Building
-
-- Frontend projects with polished HTML, CSS, and JavaScript
-- Better problem solving using practical coding and hands-on exercises
-- Foundations in Python and C for algorithmic thinking
-- A GitHub portfolio that reflects real progress and quality work
+```text
+📚 Learning       →  JavaScript (deepening), Python (foundations), DSA (consistent practice)
+🔨 Building       →  Frontend projects with real UX thinking and clean code
+🎯 Target         →  Data & Generative AI Product Engineering
+📍 Location       →  Dehradun, Uttarakhand, India
+🎓 Program        →  BCA 2024–2027 @ Graphic Era Hill University
+💼 Open To        →  Internships, collaborations, open-source contributions
+```
 
 ---
 
-## Professional Background
-
-- **Data Annotator** at RMSI – Apr 2024 to Sep 2024
-- **US Tech Recruiter** at Talentiqo – Jul 2025 to Jan 2026
-
-These experiences strengthened my attention to detail, communication, and the importance of quality delivery.
-
----
-
-## Skills & Tools
+## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,git,github,vscode&theme=dark" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,git,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Learning:** Python, C
-- **Tools:** Git, GitHub, VS Code
+| Category | Technologies |
+|---|---|
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+) |
+| **Programming** | C (logic & problem solving), Python (learning) |
+| **Tools** | Git, GitHub, VS Code |
+| **Soft Skills** | Attention to detail, communication, technical recruiting context |
+| **Exploring** | DSA, AI fundamentals, product thinking |
 
 ---
 
-## Featured Project
+## 🚀 Featured Project — SkyBridgeAMS
 
-### SkyBridgeAMS
+> An airline management system frontend — built entirely in-browser with no frameworks.
 
-A frontend airline management demo with:
-- user-friendly flight discovery
-- booking history and persistence
-- admin-style route handling
-- browser-based data storage using `localStorage`
+```
+✈️  Flight discovery UI with a user-friendly search experience
+📋  Booking history with localStorage persistence
+🔧  Admin-style route management panel
+💾  Fully browser-based — no backend, no dependencies
+```
 
-[View repository](https://github.com/karanrawat23/SkyBridgeAMS)
+**What it shows:** I can architect a multi-feature frontend project with clean separation of concerns, real UX decisions, and persistent state — using just vanilla JS.
 
----
-
-## Goals for GitHub
-
-- Showcase clean, authentic work that I’m proud of
-- Improve code quality and documentation over time
-- Keep learning publicly and share progress honestly
-- Build a profile that aligns with software engineering and AI growth
+[![View Repository](https://img.shields.io/badge/View%20Repository-0b0f14?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/karanrawat23/SkyBridgeAMS)
 
 ---
 
-## GitHub Metrics
+## 💼 Professional Background
+
+| Role | Company | Period | What I Took Away |
+|---|---|---|---|
+| Data Annotator | RMSI | Apr 2024 – Sep 2024 | How AI training data is structured; precision and quality at scale |
+| US Tech Recruiter | Talentiqo | Jul 2025 – Jan 2026 | What strong engineering profiles look like; how technical hiring really works |
+
+These weren't detours — they were context. I understand what good looks like from both sides of the table.
+
+---
+
+## 📈 GitHub Metrics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=karanrawat23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=karanrawat23&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=karanrawat23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=karanrawat23&theme=tokyonight&hide_border=true&background=00000000" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanrawat23&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanrawat23&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
 
-## Connect with me
+## 🗺️ Roadmap — 2025–2026
 
-[![Gmail](https://img.shields.io/badge/Gmail-0b0f14?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:karanrawatxlk@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b0f14?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/karan-rawat-515151281/)
-[![GitHub](https://img.shields.io/badge/GitHub-0b0f14?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/karanrawat23)
+- [ ] Complete core JavaScript — DOM, async, APIs, ES6+
+- [ ] Build 3 more polished frontend projects
+- [ ] Learn Python for data scripting and AI workflows
+- [ ] Start DSA practice (arrays, strings, recursion first)
+- [ ] Land a frontend or AI-adjacent internship
+- [ ] Contribute to one open-source project
 
 ---
 
-> Clear direction. Honest progress. Stronger technical depth.
+## 🤝 Connect With Me
 
-![Footer banner](https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:ff9d57,45:1167d8,100:07111f)
+<p align="center">
+  <a href="mailto:karanrawatxlk@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0b0f14?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/karan-rawat-515151281/">
+    <img src="https://img.shields.io/badge/LinkedIn-0b0f14?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/karanrawat23">
+    <img src="https://img.shields.io/badge/GitHub-0b0f14?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Clear direction. Honest progress. Stronger technical depth — every week.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:ff9d57,45:1167d8,100:07111f" alt="Footer" />
+</p>
