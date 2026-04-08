@@ -30,10 +30,10 @@ Now I'm channeling all of that context into building things: cleaner code, stron
 ```text
 📚 Learning       →  JavaScript (deepening), Python (foundations), DSA (consistent practice)
 🔨 Building       →  Frontend projects with real UX thinking and clean code
-🎯 Target         →  Data & Generative AI Product Engineering
+🎯 Focus         →  Data & Generative AI Product Engineering
 📍 Location       →  Dehradun, Uttarakhand, India
 🎓 Program        →  BCA 2024–2027 @ Graphic Era Hill University
-💼 Open To        →  Internships, collaborations, open-source contributions
+💼 Open To        →  Internships, open-source contributions
 ```
 
 ---
@@ -47,7 +47,7 @@ Now I'm channeling all of that context into building things: cleaner code, stron
 | Category | Technologies |
 |---|---|
 | **Frontend** | HTML5, CSS3, JavaScript (ES6+) |
-| **Programming** | C | c++ | php |(logic & problem solving), Python (learning) |
+| **Programming** | C | c++ |(logic & problem solving), Python (learning) |
 | **Tools** | Git, GitHub, VS Code |
 | **Soft Skills** | Attention to detail, communication, technical recruiting context |
 | **Exploring** | DSA, AI fundamentals, product thinking |
