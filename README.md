@@ -1,10 +1,9 @@
-<!--
-  GitHub Profile README for Karan Rawat
-  Based on portfolio: https://karanrawat23.github.io/karan-rawat-portfolio/
+<!--  
+  GitHub Profile README for Karan Rawat  
 -->
 
 <h1 align="center">Hi 👋, I'm Karan Rawat</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">Frontend Developer | BCA Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=karanrawat23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -15,26 +14,60 @@
 
 ---
 
-### 🧑‍💻 About Me
+🧑‍💻 About Me
 
-- 🔭 I’m currently working on **modern web applications** using React & Tailwind CSS
-- 🌱 I’m currently learning **Next.js** and **backend with Node.js**
-- 👯 I’m looking to collaborate on **open source frontend projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind**
-- 📫 How to reach me: **karanrawat@example.com** *(update with your actual email)*
-- ⚡ Fun fact: I love solving UI/UX puzzles and playing chess.
+- 🎓 BCA student with a strong interest in frontend development  
+- 💻 Skilled in building responsive and user-friendly web interfaces  
+- ⚛️ Working with React & Tailwind CSS  
+- 🌱 Currently learning Next.js and backend with Node.js  
+- 🤝 Open to collaborating on real-world projects  
 
 ---
 
-### 🛠️ Languages & Tools
+🌐 Portfolio
+
+- 🔗 https://karanrawat23.github.io/karan-rawat-portfolio/
+
+---
+
+🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+📌 Featured Projects
+
+| Project | Description | Tech Stack | Live |
+|--------|------------|-----------|------|
+| Portfolio Website | Personal portfolio showcasing projects and skills | HTML, CSS, JavaScript | [View](https://karanrawat23.github.io/karan-rawat-portfolio/) |
+| UI Projects Collection | Modern UI components and layouts | React, Tailwind CSS | [View](#) |
+| Quiz Management System | Console-based quiz system (PBL project) | C Language | - |
+
+---
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karanrawat23&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanrawat23&theme=tokyonight" />
+</p>
+
+---
+
+⚡ Fun Fact
+
+- I enjoy solving UI/UX problems and exploring new design ideas  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
