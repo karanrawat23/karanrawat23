@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Karan Rawat</h1>
-<h3 align="center">Frontend Developer | BCA Student</h3>
+<h3 align="center">BCA Student | Aspiring Software Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=karanrawat23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -16,12 +16,67 @@
 
 🧑‍💻 About Me
 
-- 🎓 BCA student with a strong interest in frontend development  
-- 💻 Skilled in building responsive and user-friendly web interfaces  
-- ⚛️ Working with React & Tailwind CSS  
-- 🌱 Currently learning Next.js and backend with Node.js  
-- 🤝 Open to collaborating on real-world projects  
+- 🎓 BCA student with interest in software development  
+- 💻 Strong foundation in C, C++ and Python  
+- 🧠 Currently improving problem-solving and programming skills  
+- 🚀 Learning development step by step and building projects  
+- 🤝 Open to learning opportunities and collaborations  
 
+---
+
+🌐 Portfolio
+
+- 🔗 https://karanrawat23.github.io/karan-rawat-portfolio/
+
+---
+
+🔗 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">LinkedIn</a> |
+  <a href="https://leetcode.com/YOUR_USERNAME" target="_blank">LeetCode</a> |
+  <a href="https://github.com/karanrawat23" target="_blank">GitHub</a> |
+  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">Instagram</a> |
+  <a href="https://x.com/YOUR_USERNAME" target="_blank">X (Twitter)</a>
+</p>
+
+---
+
+🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+📌 Featured Projects
+
+| Project | Description | Tech Stack | Live |
+|--------|------------|-----------|------|
+| Portfolio Website | Personal portfolio showcasing my skills and projects | HTML, CSS, JavaScript | [View](https://karanrawat23.github.io/karan-rawat-portfolio/) |
+| Quiz Management System | Console-based quiz system developed as PBL project | C Language | - |
+| Programming Practice | Collection of problem-solving programs | C, C++, Python | - |
+
+---
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karanrawat23&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanrawat23&theme=tokyonight" />
+</p>
+
+---
+
+⚡ Fun Fact
+
+- I enjoy solving logical problems and improving my coding skills
 ---
 
 🌐 Portfolio
