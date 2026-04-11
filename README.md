@@ -34,8 +34,6 @@ Now I'm channeling all of that context into building things: cleaner code, stron
 📍 Location       →  Dehradun, Uttarakhand, India
 🎓 Program        →  BCA 2024–2027 @ Graphic Era Hill University
 💼 Open To        →  Internships, open-source contributions
-```
-
 ---
 
 ## 🛠️ Skills & Tools
