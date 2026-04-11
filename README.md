@@ -16,11 +16,11 @@
 
 🧑‍💻 About Me
 
-- 🎓 BCA student with interest in software development  
+- 🎓 BCA student passionate about software development  
 - 💻 Strong foundation in C, C++ and Python  
-- 🧠 Currently improving problem-solving and programming skills  
-- 🚀 Learning development step by step and building projects  
-- 🤝 Open to learning opportunities and collaborations  
+- 🧠 Focused on improving problem-solving and DSA skills  
+- 🚀 Building projects step by step to gain real-world experience  
+- 🤝 Open to opportunities and collaborations  
 
 ---
 
@@ -33,11 +33,24 @@
 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">LinkedIn</a> |
-  <a href="https://leetcode.com/YOUR_USERNAME" target="_blank">LeetCode</a> |
-  <a href="https://github.com/karanrawat23" target="_blank">GitHub</a> |
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">Instagram</a> |
-  <a href="https://x.com/YOUR_USERNAME" target="_blank">X (Twitter)</a>
+  <a href="https://github.com/Karnrawat23" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/karan-rawat-515151281" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+  </a>
+  <a href="https://leetcode.com/u/karanrawat23/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30" />
+  </a>
+  <a href="https://instagram.com/shadowedsoul_21" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" />
+  </a>
+  <a href="https://x.com/karanrawat23" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" width="30" />
+  </a>
+  <a href="mailto:karanrawatxlk@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" />
+  </a>
 </p>
 
 ---
@@ -48,6 +61,35 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+📌 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+|--------|------------|-----------|------|
+| Portfolio Website | Personal portfolio showcasing my work and skills | HTML, CSS, JavaScript | [View](https://karanrawat23.github.io/karan-rawat-portfolio/) |
+| Quiz Management System | Console-based quiz system (PBL project) | C Language | - |
+| Problem Solving Programs | Collection of coding problems and logic building programs | C, C++, Python | - |
+
+---
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karanrawat23&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanrawat23&theme=tokyonight" />
+</p>
+
+---
+
+⚡ Fun Fact
+
+- I enjoy solving logical problems and continuously improving my coding skills  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
