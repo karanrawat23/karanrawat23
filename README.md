@@ -15,7 +15,7 @@
 🧑‍💻 About Me
 
 - 🎓 BCA student passionate about software development  
-- 💻 Skilled in C, C++ and Python  
+- 💻 profficient in C, C++ and Python  
 - 🧠 Focused on problem solving & logic building  
 - 🚀 Actively building real-world projects  
 - 🤝 Open for internships & collaborations  
