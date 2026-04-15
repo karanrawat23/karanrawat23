@@ -12,23 +12,23 @@
 
 ---
 
-🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 - 🎓 BCA student passionate about software development  
-- 💻 profficient in C, C++ and Python  
+- 💻 Skilled in C, C++ and Python  
 - 🧠 Focused on problem solving & logic building  
 - 🚀 Actively building real-world projects  
 - 🤝 Open for internships & collaborations  
 
 ---
 
-🌐 Portfolio
+## 🌐 Portfolio
 
 - 🔗 https://karanrawat23.github.io/karan-rawat-portfolio/
 
 ---
 
-🔗 Connect with Me
+## 🔗 Connect with Me
 
 <p align="left">
   <a href="https://github.com/karanrawat23"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" /></a>
@@ -41,20 +41,27 @@
 
 ---
 
-🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-🚀 Featured Projects (Live from GitHub)
+## 🧩 Currently Working On
+
+- 🚀 Improving Data Structures & Algorithms  
+- 💻 Building C-based Quiz Management System  
+- 🌐 Developing Personal Portfolio Website  
+- 📚 Preparing for tech interviews  
+
+---
+
+## 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/karanrawat23">
@@ -67,7 +74,7 @@
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karanrawat23&show_icons=true&theme=tokyonight" />
@@ -76,6 +83,30 @@
 
 ---
 
-⚡ Fun Fact
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karanrawat23&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karanrawat23&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## ⚡ Fun Fact
 
 - I enjoy solving logical problems and building useful applications 🚀
