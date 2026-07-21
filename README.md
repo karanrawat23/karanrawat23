@@ -9,15 +9,12 @@
   </a>
 </p>
 
----
-
 ## 🧑‍💻 About Me
 ✨ BCA student focused on building real-world software solutions
 💡 Strong interest in **problem solving & logic building**
-💻 Skilled in **Java, C++, Python**, with hands-on **web development** experience (React, Node.js, PHP)
+💻 Skilled in **Java, C++, Python**, with hands-on **web development** experience (React, Node.js)
 🚀 Currently improving **Data Structures & Algorithms**
 🏫 Built a full-stack school ERP system (React + Express + MongoDB)
-🤝 Open to **internships, collaborations & tech opportunities**
 
 ---
 
@@ -47,7 +44,7 @@
 ---
 
 ## 🧠 Currently Learning & Building
-- 📌 Mastering **Data Structures & Algorithms (DSA)** — practicing on LeetCode
+- 📌 Mastering **Data Structures & Algorithms (DSA)** 
 - 🏫 Deploying my **Full-Stack School ERP** (React, Express, MongoDB)
 - 🌐 Improving my **Personal Portfolio Website**
 - 🎯 Preparing for **Tech Interviews**
